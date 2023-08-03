@@ -2,7 +2,7 @@
 /**
  * bst_search -function find node in a tree
  * @tree: root of the tre to evaluate
- * @value: node to find
+ * @value: node to find.
  * Return: 1 if exits 0 if no
  */
 bst_t *bst_search(const bst_t *tree, int value)

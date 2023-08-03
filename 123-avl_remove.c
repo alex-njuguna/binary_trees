@@ -24,7 +24,7 @@ void bal(avl_t **tree)
 /**
  * successor - get the next successor i mean the min node in the right subtree
  * @node: tree to check
- * Return: the min value of this tree
+ * Return: the min value of this tree.
  */
 int successor(bst_t *node)
 {
